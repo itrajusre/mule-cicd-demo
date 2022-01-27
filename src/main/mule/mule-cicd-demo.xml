@@ -16,7 +16,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	Responce :"CI CD FLow Excuted Sucessfully"
+	Responce :"CI CD FLow Excuted Sucessfully Automatic Deloyment"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
